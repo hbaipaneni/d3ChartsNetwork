@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.graph-body {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+.node text {
+  font: 12px sans-serif;
+}
